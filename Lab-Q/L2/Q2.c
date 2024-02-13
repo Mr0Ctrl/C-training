@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Program that calculates the next date/day received from the user in "year month day" format and prints it on the screen
+A program that calculates the next date/day received from the user in "year month day" format and prints it on the screen
 */
 
 
