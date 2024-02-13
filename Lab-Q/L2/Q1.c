@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Program that sorts three integers received from the user
+*/
+
 int main(void)
 {   
     int a;
